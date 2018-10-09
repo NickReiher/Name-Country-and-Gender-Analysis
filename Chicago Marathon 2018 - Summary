@@ -63,6 +63,14 @@ First Name  Total  USA  Non-USA
 6653    Brandon     56   56        0
 6588      Jenna     52   52        0
 
+Ideas for future analysis / projects -
+1 - Create an algorithm that guesses the country of origin based on information like gender, name, etc.
+2 - Look at the data based on finishing time / place. Could look at how the country distribution changes based on how fast the runners are.
+3 - Look at the same data for other marathons. Especially with gender ratios. Is a certain gender more or less likely to travel to different places?
+4 - Look at how the data changes over time for the same race.
+5 - Examine people by the languages of their countries. What languages are the most common? 
+6 - How to deal with double names? Look at the various double names and see what interesting stuff comes out.
+7 - Create a visualization of the words / names used.
 
 Issues with the Data - The country of origin is self-reporting. And I don't know if that is based on citizenship (and dual citizens exist), place of birth, residency, etc. For example, I am from the US but have German residency. Would I be listed under the USA or Germany?
 
